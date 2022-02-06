@@ -1,0 +1,13 @@
+body
+{
+	background-color: red; 
+	font-family: Verdana;
+	font-size: 20px;
+	color: black;
+}
+
+h1
+{
+	font-size: 48px;
+	color: yellow !important;
+}
